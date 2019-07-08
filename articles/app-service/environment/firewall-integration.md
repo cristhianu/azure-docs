@@ -188,7 +188,7 @@ With an Azure Firewall, you automatically get everything below configured with t
 
 | Endpoint |
 |----------|
-|gr-Prod-\*.cloudapp.net:443 |
+|gr-Prod-\*.cloudapp.net:443 Where * is the two or three letters describing the region where your ASE is located at as shown under ASE Health\Outbound Dependencies\Regional Service in the Azure Portal| 
 | \*.management.azure.com:443 |
 | \*.update.microsoft.com:443 |
 | \*.windowsupdate.microsoft.com:443 |
